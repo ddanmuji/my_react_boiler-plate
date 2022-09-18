@@ -1,5 +1,5 @@
 {
-  "name": "my_nextjs_boiler-plate",
+  "name": "my_react_boiler-plate",
   "private": true,
   "lint-staged": {
     "**/*.{ts,tsx}": [
